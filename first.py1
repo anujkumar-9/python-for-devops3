@@ -1,0 +1,6 @@
+ab=20
+ac=40
+ad=ab*ac
+print(ab)
+print(ac)
+print(ad)
